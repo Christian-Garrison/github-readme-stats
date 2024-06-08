@@ -100,7 +100,7 @@ export const themes = {
     bg_color: "000",
   },
   dracula: {
-    title_color: "ff6e96",
+    title_color: "bd93f9",
     icon_color: "79dafa",
     text_color: "f8f8f2",
     bg_color: "282a36",
